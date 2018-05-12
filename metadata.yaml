@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37378
     wikipedia: http://en.wikipedia.org/wiki/Johann_Habermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34994#Morning-and-Evening-Prayers-for-All-Days-of-the-Week--13-Together-With-Confessional-Communion_
 gutenberg_issued: '2011-01-17'
 gutenberg_type: Text
 identifiers:
